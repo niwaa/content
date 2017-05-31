@@ -77,7 +77,7 @@ disabled: true
 ---
 mutation {
   updatePost(
-    id: "cixnen24p33lo0143bexvr52n"
+    id: "cixnen24p33lo0143bexvr52n",
     metaInformationId: "cixnjj4l90ipl0106vp6u7a2f"
   ) {
     metaInformation {
